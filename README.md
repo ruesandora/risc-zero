@@ -40,7 +40,7 @@ https://github.com/login/device
 
 // Aşağıdaki kodu node içinde çalıştırın
 
-`npx phase2cli auth
+`npx phase2cli auth`
 
 // ve 8 dijit şifreyi açılan linke giriniz - github'ınızı bağlayınız.
 
