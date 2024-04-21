@@ -1,4 +1,10 @@
+> Ben uzun süre kapatmayacağım bir sunucuya kurdum çünkü yaklaşık 1-1.5 ay açık kalmalı tahminim.
 
+> Ne kadar erken kurulursa katkıda bulunma sırasının gelmesi de o kadar iyidir. (daha erken yine ameliyatta oldgum ıcın paylasamadım)
+
+> Ben katkıda bulunan herkesin github rewardsı alacağını düşünüyorum bir kesinlik yok.
+
+> Donanım olarak herhangi bir sunucu yeterli - taşıma için aynı github ile başka sunucuda kursanız olur. 
 
 
 ```console
