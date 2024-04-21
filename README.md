@@ -59,6 +59,11 @@ npx phase2cli contribute
 
 // Katkınız en son kaldığı yerden devam etmelidir.
 
+#
+
+### Doğru çalışan node:
+
+![image](https://github.com/ruesandora/risc-zero/assets/101149671/cb1671ad-72c5-4f82-97bf-87aa1d30b8a5)
 
 
 
