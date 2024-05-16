@@ -56,6 +56,7 @@ https://github.com/login/device
 
 ```
 screen -S risczero
+cd ~/p0tion-tmp
 npx phase2cli contribute
 ```
 
