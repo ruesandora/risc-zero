@@ -52,7 +52,7 @@ https://github.com/login/device
 
 ### Katkıda bulunma kısmına geçelim:
 
-// Bu kısımda önce enter tuşuna basın ardından randomly/otomatik seçip enter yapın. 
+// Bu kısımda önce enter tuşuna basın ardından randomly/manually seçip enter yapın. 
 
 ```
 screen -S risczero
